@@ -2,7 +2,7 @@ This project covers the basics of creating a web application with an ASP.NET Web
 It uses Entity Framework 6 for the data layer, and Knockout.js for the client-side JavaScript application.
 It can be hosted on a shared hosting.
 
-Software versions used:
+**Software versions used**:
 
 •	Web API 2.1
 
@@ -12,12 +12,15 @@ Software versions used:
 
 •	.NET 4.5
 
-•	Knockout.js 3.1
+• [Knockout.js 3.1](http://knockoutjs.com/)
 
-Web.config adjustments needed at node: 
+**Web.config adjustments needed at node**: 
 
 < system.web >
 
 < customErrors mode="Off" />
 
 < trust level="Full" />
+
+
+![This is an image](https://github.com/becharakfoury/BookService/blob/master/HomePage.png)
